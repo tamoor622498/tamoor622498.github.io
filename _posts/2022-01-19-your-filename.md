@@ -3,4 +3,4 @@ published: true
 ---
 ## This is a test post
 
-Tis a text post
+Tis a text post.
