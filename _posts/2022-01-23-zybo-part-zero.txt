@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title:  "Learning FPGAs With The Zybo Z7: Part 0 - Blink"
 ---
 This is gonna be the start of my FPGA series. I plan to cover the board I’ve chosen, programming software, and creating a project. We will be creating “Blinky” which will just blink an LED. The project may seem simple, but it covers the basic workflow when working with an FPGA.
